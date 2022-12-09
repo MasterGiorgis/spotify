@@ -6,6 +6,10 @@
   font-size : 40px;
   color: #ff0000;
 }
+.NOTES{
+  font-size : 40px;
+  color:  #6A5ACD;
+}
 body{
   background-image: url("samp-love.gif");
 }
